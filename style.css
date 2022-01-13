@@ -50,4 +50,25 @@ body{
     padding: 10%;
     background-image: url(image/p7.png);
 }
-
+.last-section{
+    display: flex;
+    padding: 10%;
+    background-image: url(image/p7.png);
+}
+.last-div{
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+.last-div img{
+width: 100%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+.f-span{
+    color: sandybrown;
+}
