@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.os{
+    color: aqua;
+}
+section{
+    display: flex;
+    padding: 10%;
+    background-image: url(image/p7.png);
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 100%;
+}
