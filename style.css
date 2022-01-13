@@ -15,3 +15,32 @@ section{
 .half-width img{
     width: 100%;
 }
+.anchor-button{
+    text-decoration: none;
+    color: white;
+  background-image: linear-gradient(purple,blue);
+  padding: 5px;
+  border-radius: 5px;
+}
+.second-heading{
+    text-align: center;
+    font-size: 40px;
+    background-image: linear-gradient(purple,blue);
+    color: white;
+}
+.second-section{
+    display: flex;
+   background-image: none;
+}
+.lower-div{
+    border-radius: 5%;
+    width: 30%;
+    padding: 10%;
+  color: black;
+ background-color: rgb(228, 187, 140);
+  margin: 2px;
+}
+.lower-div img{
+    width: 100%;
+}
+
